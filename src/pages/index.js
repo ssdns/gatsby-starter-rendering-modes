@@ -10,7 +10,7 @@ export default function Home (props) {
           <Link to='/dsg'>DSG page</Link>
         </li>
         <li>
-          <Link to='/ssr'>SSR page</Link>
+          <Link to='/s/splat/dog/test/'>SSR page</Link>
         </li>
       </ul>
     </>
